@@ -1,0 +1,8 @@
+{
+  "name": "pwd/site",
+  "autoload": {
+    "psr-4": {
+      "PWD\\": "php_interface/classes/"
+    }
+  }
+}
